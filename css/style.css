@@ -115,7 +115,7 @@ ul li.active a
 
 #about
 {
-    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(1807.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(../1807.jpg);
     background-size: cover;
     background-position: center;
     color: #efefef;
@@ -166,7 +166,7 @@ ul li.active a
 
 #followme
 {
-    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(1807.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(../1807.jpg);
     background-size: cover;
     background-position: center;
     color: #efefef;
